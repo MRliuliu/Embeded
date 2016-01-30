@@ -1,0 +1,1 @@
+cmd_/home/qin/beijing15071/06-day-fs4412/dri/dri.ko := arm-none-linux-gnueabi-ld -EL -r  -T /home/qin/linux-3.14-fs4412/scripts/module-common.lds --build-id  -o /home/qin/beijing15071/06-day-fs4412/dri/dri.ko /home/qin/beijing15071/06-day-fs4412/dri/dri.o /home/qin/beijing15071/06-day-fs4412/dri/dri.mod.o
